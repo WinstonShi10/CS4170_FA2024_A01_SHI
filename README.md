@@ -1,7 +1,10 @@
-### OpenMP Assignment #2 for CS 4170/5170 ###
-This is a basic template for OpenMP Assignment in CS 4170/5170
+<h1> Assignment 01, Particle Swarm Optimization in OpenMP </h1>
 
-## Starting your own Repo ##
+Winston Shi
+
+[TOC]
+
+## Summary
 
 Follow these steps:
 
